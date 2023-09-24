@@ -9,3 +9,4 @@ for c in range(3):
     for j in range(3):
         print(f'[{matrix[c][j]: ^5}]',end='')
     print( )
+    
